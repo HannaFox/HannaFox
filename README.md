@@ -1,60 +1,49 @@
 
 <h3 align="left">
- Hi there 👋, <br>
- I'm Hanna a data analyst from Berlin. 
-
+ Heeey! 
+ <br>
+ I'm Hanna, a data analyst from Berlin.
 </h3>
 
-
 <img align="right" alt="roamingthespace_gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300"/>
-    
-
+<br>
+<em>I believe:</em>
 <div>
   <ul>
     <li>
-      <p>Creating something from scratch through programming <br> and seeing your ideas come to life, is so rewarding ❤️</p>
+      <p><em>Creating something from scratch through programming <br> and seeing your ideas come to life, is so rewarding ❤️</em></p>
     </li>
     <li>
-      <p>Join me on my journey of discovery and growth <br>as I explore the endless possibilities of data analysis 🌱</p>
+      <p><em>Data analysis offers a huge world <br>of endless possibilities for discovery and growth 🌱</em></p>
     </li>
     <li>
-      <p>I believe that in order for people to take an interest, <br>data needs to be presented in an organized and visually appealing manner 📈</p>
+      <p><em>In order for people to take an interest, <br>data needs to be presented in an organized and visually appealing manner 📈</em></p>
     </li>
     <li>
-      <p>Which is why I am committed to presenting my insights not only clear and concise,<br>  but also visually pleasing 🙌</p>
+      <p><em>Which is why I am committed to presenting my insights not only clear and concise,<br>  but also nice to look at 🙌</em></p>
     </li>
+    <br>
+    <br>
   </ul>
 </div>
+<em>Languages and tools I use and am learning:</em>
+<br>
+<br>
 
-
-
-
-
-
-
-## <img alt="toolsgif" src="https://media.giphy.com/media/qQmTFifHAlqr2cyGpF/giphy.gif" width='30' align="top" />&ensp;&nbsp;Languages and tools that I use and learn:
-![Python][https://www.youtube.com/watch?v=dQw4w9WgXcQ)](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
-![SQL](https://img.shields.io/badge/mysql-090909?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-090909?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/CSS3-090909?style=for-the-badge&logo=CSS3)
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
+![SQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-090909?style=for-the-badge&logo=Jupyter)
-![Tableau](https://img.shields.io/badge/Tableau-090909?style=for-the-badge&logo=Tableau)
-![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
-![Numpy](https://img.shields.io/badge/NumPy-090909?style=for-the-badge&logo=Numpy)
+![NumPy](https://img.shields.io/badge/NumPy-090909?style=for-the-badge&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-090909?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-090909?style=for-the-badge&logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-090909?style=for-the-badge&logo=Seaborn)
+![Plotly](https://img.shields.io/badge/Plotly-090909?style=for-the-badge&logo=Plotly)
+![Tableau](https://img.shields.io/badge/Tableau-090909?style=for-the-badge&logo=Tableau)
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
+<br>
+<br>
 
-
-**HannaFox/HannaFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ currently working on documenting and sharing my projects on GitHub and Tableau Public
+- 🔭 also looking for a new fun dataset to explore and analyze
+- 💻 and I want to build something with Python again #

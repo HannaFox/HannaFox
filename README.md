@@ -46,4 +46,4 @@
 
 - ✨ currently working on documenting and sharing my projects on GitHub and Tableau Public
 - 🔭 also looking for a new fun dataset to explore and analyze
-- 💻 and I want to build something with Python again #
+- 💻 and I want to build something with Python again ##

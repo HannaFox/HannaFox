@@ -42,7 +42,6 @@ Languages and tools I use and am learning:
 ![Tableau](https://img.shields.io/badge/Tableau-090909?style=for-the-badge&logo=Tableau)
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git)
 <br>
-<br>
 
 - ✨ currently working on documenting and sharing my projects on GitHub and Tableau Public
 - 🔭 also looking for new fun datasets to explore and analyze

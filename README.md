@@ -5,7 +5,6 @@
  I'm Hanna, a data analyst from Berlin.
 </h3>
 
-<br>
  <img align="right" src="https://www.publicdomainpictures.net/pictures/40000/nahled/globe-clipart.jpg" width="300"/>
 <em>I believe:</em>
 <div>

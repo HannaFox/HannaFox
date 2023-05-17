@@ -24,7 +24,7 @@
    </li>
   </ul>
 </div>
-<img align="left" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=2000" width="300"/>
+<img align="left" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=2000" width="320"/>
 Languages and tools I use and am learning:
 <br>
 <br>

@@ -5,28 +5,27 @@
  I'm Hanna, a data analyst from Berlin.
 </h3>
 
-<img align="right" src="https://erp.today/wp-content/uploads/2021/02/Jamieson-Issue4-1-scaled-1-1-1760x2048.jpg" width="300"/>
 <br>
 <em>I believe:</em>
 <div>
   <ul>
     <li>
-      <p><em>Creating something from scratch through programming <br> and seeing your ideas come to life, is so rewarding ❤️</em></p>
+      <p><em>creating something from scratch through programming <br> and seeing your ideas come to life, is so rewarding ❤️</em></p>
+    </li>
+   <li>
+      <p><em>data analysis offers a huge world <br>of endless possibilities for discovery and growth 🌱</em></p>
     </li>
     <li>
-      <p><em>Data analysis offers a huge world <br>of endless possibilities for discovery and growth 🌱</em></p>
+      <p><em>in order for people to take an interest, <br>data needs to be presented in an organized and visually appealing manner 📈</em></p>
     </li>
     <li>
-      <p><em>In order for people to take an interest, <br>data needs to be presented in an organized and visually appealing manner 📈</em></p>
-    </li>
-    <li>
-      <p><em>Which is why I am committed to presenting my insights not only clear and concise,<br>  but also nice to look at 🙌</em></p>
-    </li>
+      <p><em>which is why I am committed to presenting my insights not only clear and concise,<br>  but also nice to look at 🙌</em></p>
     <br>
-    <br>
+   </li>
   </ul>
 </div>
-<em>Languages and tools I use and am learning:</em>
+<img align="left" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg?w=2000" width="300"/>
+Languages and tools I use and am learning:
 <br>
 <br>
 

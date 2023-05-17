@@ -5,7 +5,7 @@
  I'm Hanna, a data analyst from Berlin.
 </h3>
 
-<img align="right" alt="roamingthespace_gif" src="https://media3.giphy.com/media/xT8qBhrlNooHBYR9f2/giphy.gif" width="300"/>
+<img align="right" src="https://erp.today/wp-content/uploads/2021/02/Jamieson-Issue4-1-scaled-1-1-1760x2048.jpg" width="300"/>
 <br>
 <em>I believe:</em>
 <div>
